@@ -4,7 +4,7 @@
 <img src="https://i.pinimg.com/originals/42/b4/22/42b4229a9ec3145edaa895b2415dd720.gif" alt="Banner" width="100%" />
 
 ## 📌 About Me
-- 💡 <em>✏️ I am an aspiring Data Engineer, who has a great deal of experience with python, Java, Javascript, TypeScript, HTML, CSS, and GoLang. I specialize in cleaning data, as well as ETL Pipelines.</em>
+- 💡 <em>✏️ I am an aspiring Data Engineer, who has a great deal of experience with python, Java, Javascript, TypeScript, HTML, CSS, and GoLang. I specialize in cleaning and visualizeing data, as well as ETL Pipelines.</em>
 
 
 ## 📊 GitHub Stats & Trophies
